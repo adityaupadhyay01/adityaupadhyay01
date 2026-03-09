@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a Computer Science Engineering student at NIET, focused on building strong programming fundamentals.<br><br>I enjoy connecting with like-minded learners and developers who believe in consistent growth.<br><br>Currently, I’m learning C and transitioning towards C++ and Data Structures & Algorithms.<br><br>I prefer learning by building projects and strengthening my problem-solving skills through practice.<br>
 
-📁 Proof of Work: https://adityaupadhyayportfolio.netlify.app/
+📁 Proof of Work: https://aditya-portfolio-drab.vercel.app/
 
 
 ## 🌐 Socials:
