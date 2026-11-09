@@ -1,23 +1,19 @@
-# About Me:
-I'm a Computer Science Engineering student at NIET, focused on building strong programming fundamentals.<br><br>I enjoy connecting with like-minded learners and developers who believe in consistent growth.<br><br>Currently, I’m learning C and transitioning towards C++ and Data Structures & Algorithms.<br><br>I prefer learning by building projects and strengthening my problem-solving skills through practice.<br>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=adityaupadhyay01&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F238797991%3Fu%3D4aefbf1aa5f3f5846e07dee50bf3ebe88757a6ba%26v%3D4&v=showcase-hero-1" alt="Aditya Upadhyay hero visual" />
+</p>
 
-Proof of Work: https://aditya-portfolio-drab.vercel.app/ (Under Construction🚧) 
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=adityaupadhyay01&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F238797991%3Fu%3D4aefbf1aa5f3f5846e07dee50bf3ebe88757a6ba%26v%3D4&v=showcase-projects-2" alt="Aditya Upadhyay projects visual" />
+</p>
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-upadhyay-7a372a2a7/) 
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=adityaupadhyay01&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Aditya Upadhyay contribution Space Shooter" />
+</p>
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=adityaupadhyay01&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F238797991%3Fu%3D4aefbf1aa5f3f5846e07dee50bf3ebe88757a6ba%26v%3D4&v=showcase-stats-4" alt="Aditya Upadhyay stats visual" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![MERN](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://www.gitskins.com/api/section/social?username=adityaupadhyay01&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F238797991%3Fu%3D4aefbf1aa5f3f5846e07dee50bf3ebe88757a6ba%26v%3D4&v=showcase-social-5" alt="Aditya Upadhyay social visual" />
+</p>
