@@ -30,4 +30,4 @@
   <img src="https://www.gitskins.com/api/section/studio-log?username=adityaupadhyay01&mode=dark" width="100%" alt="The last 26 weeks of contributions, the streak and the year" />
 </picture>
 
-<sub>Pixel Studio · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+<sub>Built on late nights, random experiments, stubborn persistence, and questionable ideas.</a></sub>
